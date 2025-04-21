@@ -33,7 +33,7 @@ This is a simple console-based Minesweeper game built with **C#** in **.Net 9**,
 1. Clone the repository:
    ```sh
    git clone <repository-url>
-   cd BankAccount
+   cd Minesweeper.ConsoleApp
    ```
 2. Build the project:
    ```sh
